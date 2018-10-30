@@ -14,7 +14,7 @@ Nodejs v8+
 npm i truffle -g
 ```
 
-Node: If your truffle version is less then v4.1.14, you need to manually [update solidity to v0.4.25.](https://www.google.com)
+Node: If your truffle version is less then v4.1.14, you need to manually [update solidity to v0.4.25.](https://ethereum.stackexchange.com/a/26485/47461)
 
 ```
 cd /usr/local/lib/node_modules/truffle
